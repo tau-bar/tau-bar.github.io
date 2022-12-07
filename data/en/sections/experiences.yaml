@@ -11,6 +11,18 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: National University of Singapore
+    url: "https://nus.edu.sg/"
+    location: Singapore
+    # company overview
+  positions:
+  - designation: Teaching Assistant for Software Engineering (CS2103)
+    start: Aug 2022
+    end: Nov 2022
+    responsibilities:
+    - Conducted weekly tutorials covering Software Engineering principles (Object-Oriented system analysis, Object-Oriented system modelling, Design and implementation of software modules).
+
+- company:
     name: Savour!
     url: "https://www.savourapp.co/"
     location: Singapore

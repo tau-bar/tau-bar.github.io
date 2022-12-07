@@ -10,9 +10,6 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Dean's List (AY 21/22 Semester 1)
-  image: /images/sections/achievements/deans1.png
-  summary: Attained top 5% of cohort in AY 21/22 Semester 1.
 - title: Ninjavan Code Dojo Hackathon - 4th Place
   image: /images/sections/achievements/codedojo.jpg
   summary: Achieved 4th place in Ninjavan's annual Code Dojo hackathon. (I'm on the left!)

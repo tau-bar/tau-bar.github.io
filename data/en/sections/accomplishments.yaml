@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Dean's List (AY 21/22 Semester 1)
+  timeline: "Aug 2021 - Nov 2021"
+  organization:
+    name: National University of Singapore
+    url: "https://nus.edu.sg/"
+  courseOverview: Top 5% of cohort in AY21/22 Semester 1
+  certificateURL: "https://credentials.nus.edu.sg/6bca7fb0-4983-4a5c-810c-63ac45f9dfcc"
+
+- name: Apollo 11 (Advanced) Award
+  timeline: "Aug 2021"
+  organization:
+    name: National University of Singapore
+    url: "https://nus.edu.sg/"
+  courseOverview: Awarded Apollo 11 (Advanced) award for ViruSim, as part of Independent Software Development Project.
+  certificateURL: "https://credentials.nus.edu.sg/43205b41-1252-4c99-94a0-05a941ac3521"
+
+- name: Complete Web Developer
+  timeline: May 2020
+  organization:
+    name: Udemy
+  courseOverview: "Introduces the essential skills required for a modern web developer."  
+  certificateURL: "https://www.udemy.com/certificate/UC-a136a55e-b202-4950-99fc-d3f59a3f18b3/"
+
+- name: Complete Python Developer
+  timeline: "Mar 2020"
+  organization:
+    name: Udemy
+  courseOverview: "Introduces modern skills of a Python 3 developer, and build real word projects using Python."
+  certificateURL: "https://www.udemy.com/certificate/UC-645658fd-b371-429d-8696-4e6ec8f67095/"
