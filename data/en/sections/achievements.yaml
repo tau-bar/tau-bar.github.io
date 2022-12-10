@@ -3,7 +3,7 @@ section:
   name: Achievements
   id: achievements
   enable: true
-  weight: 8
+  weight: 7
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -13,3 +13,6 @@ achievements:
 - title: Ninjavan Code Dojo Hackathon - 4th Place
   image: /images/sections/achievements/codedojo.jpg
   summary: Achieved 4th place in Ninjavan's annual Code Dojo hackathon. (I'm on the left!)
+- title: Tertiary Silat Championships
+  image: /images/sections/achievements/silat.jpg
+  summary: Achieved 2nd place in Class D Tanding Men.

@@ -11,6 +11,17 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: TikTok
+    url: "https://www.tiktok.com/"
+    location: Singapore
+    # company overview
+    overview: Obtained a summer internship as a Backend Engineer Intern at TikTok under the Global E-commerce team (yay! 😀).
+  positions:
+  - designation: Backend Engineer Intern
+    start: May 2023
+    end: Aug 2023
+
+- company:
     name: National University of Singapore
     url: "https://nus.edu.sg/"
     location: Singapore
@@ -36,13 +47,13 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Upgraded B2B E-procurement marketplace search by implementing weighted search using Django and Python on backend to return more accurate results
-    - Built email sign-in and One-Time Password to existing authentication process using Django and Python by coding 4 backend RESTful API endpoints, reducing the admin time spent on approving accounts
-    - Debug faulty software for filtering search results by analysing existing code, allowing consumers to filter search results
-    - Implemented searching with search suggestions, sorting and filtering using data structures, React and Javascript, helping merchants find items in inventory more quickly
-    - Deployed staging environment using AWS EC2 Linux instance to support rapid prototyping of new features
+    - Developed new frontend and backend features for B2B E-procurement marketplace with React and Django
+    - Upgraded marketplace search by implementing weighted results and sort / filter so clients can find products easily
+    - Implemented searching with search suggestions to allow merchants to more easily find items in inventory
+    - Deployed new staging environment with AWS EC2 Linux instance to support rapid prototyping of new features
     - Identified bottleneck in static content delivery and incorporated AWS CloudFront, reducing page loading times by 40%
-    - Communicated with 2 Product Managers to critically analyse new feature ideas by identifying potential problems
+    - Collaborated with 2 Product Managers to analyse new feature ideas by identifying potential problems
+
 
 - company:
     name: Crater Merch

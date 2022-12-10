@@ -4,7 +4,7 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -54,6 +54,7 @@ degrees:
       outOf: 5
   extracurricularActivities: #(optional)
   - Frontend Lead for Project Sight Words under NUS Google Student Developer Clubs.
+  - NUS Silat Varsity Athlete
 - name: 
   icon: fa-school
   timeframe: 2016 - 2017

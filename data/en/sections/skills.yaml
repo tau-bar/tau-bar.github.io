@@ -13,39 +13,39 @@ section:
 skills:
 - name: React
   logo: /images/sections/skills/react.png
-  summary: "Experienced in using React, notably for frontend during internships, school projects and personal projects."
+  summary: "Experienced in using React for frontend features during internships, school projects and personal projects (refer to projects section: AlgoHike, DrawToday, Swappee, etc)."
 
 - name: Redux
   logo: /images/sections/skills/redux.png
-  summary: "Capable of using Redux in conjunction with frontend frameworks like React for global state management."
+  summary: "Used Redux in conjunction with React for multiple projects (refer to projects section: AlgoHike, DrawToday, Swappee)."
 
 - name: Sass
   logo: /images/sections/skills/sass.png
-  summary: "Used Sass for frontend styling in conjunction with React during internship and in personal projects."
+  summary: "Used Sass for frontend styling in conjunction with React during internships and in personal projects (refer to projects section: DrawToday, Swappee)."
 
 - name: Django
   logo: /images/sections/skills/django.png
-  summary: "Worked with Django backend to add new features and endpoints during my Year 2 summer internship."
+  summary: "Worked with Django backend to add new features and endpoints during my Year 2 summer internship at Savour."
 
 - name: Express
   logo: /images/sections/skills/express.png
-  summary: "Experience with Express to develop backends for monolithic and microservices architectures."
+  summary: "Experience with Express to develop backends for monolithic and microservices architectures (refer to projects section: AlgoHike, DrawToday)."
 
 - name: Node.js
   logo: /images/sections/skills/node.png
-  summary: "Experience with Node.js in creating backend servers for school and personal projects."
+  summary: "Experience with Node.js in creating backend servers for school and personal projects (refer to projects section: AlgoHike, DrawToday)."
 
 - name: Javascript
   logo: /images/sections/skills/js.png
-  summary: "Used in conjunction with React and Node.js for multiple school projects and internships."
+  summary: "Used for multiple school projects and during internships (refer to projects section: DrawToday, ViruSim, Taizuyahira)."
 
 - name: Java
   logo: /images/sections/skills/java.png
-  summary: "Used in school projects and personal projects."
+  summary: "Used in school projects, assignments and personal projects (refer to projects section: GitGud)."
 
 - name: Python
   logo: /images/sections/skills/py.webp
-  summary: "Used Python during internship together with Django as well as for school assignments."
+  summary: "Used Python during internship at Savour as well as for school assignments."
 
 - name: MongoDB
   logo: /images/sections/skills/mongodb.webp
@@ -53,8 +53,8 @@ skills:
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Capable of using Git for revision control."
+  summary: "Experience using Git for revision control."
 
 - name: Firebase
   logo: /images/sections/skills/firebase.png
-  summary: "Experience in using Firebase for Cloud Database and for authentication & authorization."
+  summary: "Experience in using Firebase for Cloud Database and for authentication & authorization (refer to projects section: AlgoHike, Virusim)."
