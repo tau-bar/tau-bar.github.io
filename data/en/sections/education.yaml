@@ -18,17 +18,26 @@ degrees:
     url: "https://nus.edu.sg/"
   grade: #(optional)
     scale: GPA
-    achieved: 4.78
+    achieved: 4.8
     outOf: 5
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     collapseAfter: 4
     courses:
+    - name: Software Engineering Principles and Patterns (CS3219)
+      achieved: 5 (A+)
+      outOf: 5
+    - name: Software Engineering (CS2103)
+      achieved: 5 (A)
+      outOf: 5
+    - name: Design and Analysis of Algorithms (CS3230)
+      achieved: 5 (A) 
+      outOf: 5
     - name: Data Structures and Algorithm (CS2040S)
       achieved: 5 (A)
       outOf: 5
-    - name: Software Engineering (CS2103)
+    - name: Computer Security (CS3235)
       achieved: 5 (A)
       outOf: 5
     - name: Linear Algebra (MA1101R)
@@ -42,15 +51,6 @@ degrees:
       outOf: 5
     - name:  Database Systems (CS2102)
       achieved: 4.5 (A-)
-      outOf: 5
-    - name: Design and Analysis of Algorithms (CS3230)
-      achieved: Currently Taking
-      outOf: 5
-    - name: Software Engineering Principles and Patterns (CS3219)
-      achieved: Currently Taking
-      outOf: 5
-    - name: Computer Security (CS3235)
-      achieved: Currently Taking
       outOf: 5
   extracurricularActivities: #(optional)
   - Frontend Lead for Project Sight Words under NUS Google Student Developer Clubs.
