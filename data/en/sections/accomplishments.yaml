@@ -11,6 +11,14 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: Dean's List (AY 22/23 Semester 1)
+  timeline: "Aug 2022 - Nov 2022"
+  organization:
+    name: National University of Singapore
+    url: "https://nus.edu.sg/"
+  courseOverview: Top 5% of cohort in AY21/22 Semester 1
+  certificateURL: "https://credentials.nus.edu.sg/d093e9ed-756b-486f-bbe9-62fb972a3f83"
+
 - name: Dean's List (AY 21/22 Semester 1)
   timeline: "Aug 2021 - Nov 2021"
   organization:
