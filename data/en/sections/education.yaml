@@ -38,12 +38,12 @@ degrees:
       achieved: 5 (A)
       outOf: 5
     - name: Computer Security (CS3235)
-      achieved: Currently Taking
+      achieved: 5 (A)
       outOf: 5
     - name: Data Structures and Algorithm (CS2040S)
       achieved: 5 (A)
       outOf: 5
-    - name: Software Engineering (CS2103)
+    - name: Computer Security (CS3235)
       achieved: 5 (A)
       outOf: 5
     - name: Linear Algebra (MA1101R)
