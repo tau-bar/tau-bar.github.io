@@ -15,23 +15,24 @@ experiences:
     url: "https://www.tiktok.com/"
     location: Singapore
     # company overview
-    overview: Obtained a summer internship as a Backend Engineer Intern at TikTok under the Global E-commerce team (yay! 😀).
+    overview: Currently working under Product RD and Infrastructure Global E-Commerce team on the Data Insights platform.
   positions:
   - designation: Backend Engineer Intern
     start: May 2023
-    end: Aug 2023
+    end: Present
 
 - company:
     name: National University of Singapore
     url: "https://nus.edu.sg/"
     location: Singapore
     # company overview
+    overview: Served as a Teaching Assistantg for Software Engineering for 2 semesters.
   positions:
   - designation: Teaching Assistant for Software Engineering (CS2103)
     start: Aug 2022
-    end: Nov 2022
+    end: May 2023
     responsibilities:
-    - Conducted weekly tutorials covering Software Engineering principles (Object-Oriented system analysis, Object-Oriented system modelling, Design and implementation of software modules).
+    - Conducted weekly tutorials for 2 semesters covering Software Engineering principles (Object-Oriented system analysis, Object-Oriented system modelling, Design and implementation of software modules).
 
 - company:
     name: Savour!

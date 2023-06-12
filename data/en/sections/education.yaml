@@ -18,49 +18,73 @@ degrees:
     url: "https://nus.edu.sg/"
   grade: #(optional)
     scale: GPA
-    achieved: 4.80
+    achieved: 4.81
     outOf: 5
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     collapseAfter: 4
     courses:
+    - name: ==== Software Engineering Modules ==== 
     - name: Software Engineering on Modern Application Platforms (CS3217)
-      achieved: Currently Taking
-      outOf: 5
-    - name: Database Systems Implementation (CS3223)
-      achieved: Currently Taking
+      achieved: 5 (A+)
       outOf: 5
     - name: Software Engineering Principles and Patterns (CS3219)
       achieved: 5 (A+)
       outOf: 5
-    - name: Design and Analysis of Algorithms (CS3230)
+    - name: Software Engineering (CS2103T)
       achieved: 5 (A)
       outOf: 5
-    - name: Computer Security (CS3235)
+    - name: ======== Database Modules ========
+    - name: Big Data Systems for Data Science (CS4225)
+      achieved: 5 (A+)
+      outOf: 5
+    - name: Database Systems Implementation (CS3223)
+      achieved: 5 (A)
+      outOf: 5
+    - name: Database Systems (CS2102)
+      achieved: 4.5 (A-)
+      outOf: 5
+    - name: ======== Algorithm Modules ========
+    - name: Design and Analysis of Algorithms (CS3230)
       achieved: 5 (A)
       outOf: 5
     - name: Data Structures and Algorithm (CS2040S)
       achieved: 5 (A)
       outOf: 5
+    - name: ========= Security Modules =========
     - name: Computer Security (CS3235)
       achieved: 5 (A)
+      outOf: 5
+    - name: Introduction to Information Security (CS2107)
+      achieved: 4.5 (A-)
+      outOf: 5 
+    - name: ========= Other CS Modules =========
+    - name: Computer Organisation (CS2100)
+      achieved: 5 (A)
+      outOf: 5
+    - name: Machine Learning (CS3244)
+      achieved: 4.5 (A-)
+      outOf: 5 
+    - name: Introduction to Operating Systems (CS2106)
+      achieved: 4.5 (A-)
+      outOf: 5    
+    - name: Introduction to Computer Networks (CS2105)
+      achieved: 4.5 (A-)
       outOf: 5
     - name: Linear Algebra (MA1101R)
       achieved: 5 (A+)
       outOf: 5
-    - name: Computer Organisation (CS2100)
-      achieved: 5 (A)
-      outOf: 5
-    - name: Introduction to Computer Networks (CS2105)
-      achieved: 4.5 (A-)
-      outOf: 5
-    - name:  Database Systems (CS2102)
-      achieved: 4.5 (A-)
-      outOf: 5
+
   extracurricularActivities: #(optional)
   - Frontend Lead for Project Sight Words under NUS Google Student Developer Clubs.
   - NUS Silat Varsity Athlete
+
+  awards:
+  - Dean's List (AY 22/23 Semester 2)
+  - Dean's List (AY 22/23 Semester 1)
+  - Dean's List (AY 21/22 Semester 1)
+
 - name: 
   icon: fa-school
   timeframe: 2016 - 2017

@@ -21,6 +21,21 @@ buttons:
 
 # your projects
 projects:
+- name: Tumbling Towers
+  role: Student
+  timeline: "Mar 2023 - April 2023"
+  repo: "https://github.com/tumbling-towers/TumblingTowersGame"
+  url:  "https://github.com/tumbling-towers/TumblingTowersGame"
+  summary: Developed a game where users can build towers using tetris blocks. Supports 4 different game modes and local multiplayer. Built using SwiftUI and Swift as part of the team project for CS3217. (Grade - A+)
+  tags: ["academic", "swift", "xcode", "swiftui"]
+
+- name: Gromflomite Invasion
+  role: Student
+  timeline: "Jan 2023 - Feb 2023"
+  repo: "https://github.com/cs3217-2223/problem-set-4-tau-bar"
+  summary: Developed a Rick and Morty themed Peggle Clone in Swift, with core gameplay and a level editor, built using Storyboard for the iPad as part of the individual problem sets for CS3217. (Grade - A+)
+  tags: ["academic", "swift", "xcode", "storyboard"]
+
 - name: Project Sight Words
   role: Frontend Lead
   timeline: "Aug 2022 - Present"
