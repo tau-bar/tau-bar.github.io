@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "..\\..\\..\\AppData\\Local\\Temp\\hugo_cache\\modules\\filecache\\modules\\pkg\\mod\\github.com\\hugo-toha\\toha\\v4@v4.0.0-20230612115753-147a4c1a0f7f\\assets\\*"
+   ]
+  }
+ }
+}
