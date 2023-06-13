@@ -23,6 +23,10 @@ skills:
   logo: /images/sections/skills/sass.png
   summary: "Used Sass for frontend styling in conjunction with React during internships and in personal projects (refer to projects section: DrawToday, Swappee)."
 
+- name: Swift
+  logo: /images/sections/skills/swift.png
+  summary: "Used Swift for iOS development while taking CS3217: Software Engineering on Modern Application Platforms. (refer to projects section: Tumbling Towers, Gromflomite Invasion)"
+
 - name: Django
   logo: /images/sections/skills/django.png
   summary: "Worked with Django backend to add new features and endpoints during my Year 2 summer internship at Savour."
@@ -42,6 +46,10 @@ skills:
 - name: Java
   logo: /images/sections/skills/java.png
   summary: "Used in school projects, assignments and personal projects (refer to projects section: GitGud)."
+
+- name: Golang
+  logo: /images/sections/skills/golang.png
+  summary: "Used Golang for backend development during my Year 3 summer internship at Tiktok."
 
 - name: Python
   logo: /images/sections/skills/py.webp
