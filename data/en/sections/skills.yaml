@@ -13,51 +13,63 @@ section:
 skills:
 - name: React
   logo: /images/sections/skills/react.png
-  summary: "Experienced in using React for frontend features during internships, school projects and personal projects (refer to projects section: AlgoHike, DrawToday, Swappee, etc)."
+  summary: "Experienced in using React for frontend features during internships and multiple school & personal projects. \n \n Internships: Savour \n \n Projects: Project Sight Words, AlgoHike, DrawToday, Swappee"
 
 - name: Redux
   logo: /images/sections/skills/redux.png
-  summary: "Used Redux in conjunction with React for multiple projects (refer to projects section: AlgoHike, DrawToday, Swappee)."
+  summary: "Used Redux in conjunction with React for multiple projects. \n\n Projects: AlgoHike, DrawToday, Swappee"
+
+- name: Tailwind
+  logo: /images/sections/skills/tailwind.png
+  summary: "Used Tailwind in conjunction with React for frontend styling. \n\n Projects: Project Sight Words"
 
 - name: Sass
   logo: /images/sections/skills/sass.png
-  summary: "Used Sass for frontend styling in conjunction with React during internships and in personal projects (refer to projects section: DrawToday, Swappee)."
+  summary: "Used Sass for frontend styling in conjunction with React during internships and in personal projects. \n\n Internships: Savour \n\n Projects: DrawToday, Swappee"
 
 - name: Swift
   logo: /images/sections/skills/swift.png
-  summary: "Used Swift for iOS development while taking CS3217: Software Engineering on Modern Application Platforms. (refer to projects section: Tumbling Towers, Gromflomite Invasion)"
+  summary: "Used Swift with Storyboard and SwiftUI for iOS development projects while taking CS3217: Software Engineering on Modern Application Platforms. \n\n Projects: Tumbling Towers, Gromflomite Invasion"
+
+- name: Flutter
+  logo: /images/sections/skills/flutter.png
+  summary: "Used Flutter & Dart for developing mobile applications. \n\n Projects: ReCloset"
 
 - name: Django
   logo: /images/sections/skills/django.png
-  summary: "Worked with Django backend to add new features and endpoints during my Year 2 summer internship at Savour."
+  summary: "Worked with Django backend to add new features and endpoints during internship. \n\n Internships: Savour"
 
 - name: Express
   logo: /images/sections/skills/express.png
-  summary: "Experience with Express to develop backends for monolithic and microservices architectures (refer to projects section: AlgoHike, DrawToday)."
+  summary: "Experience with Express to develop backends with both monolithic and microservice architectures. \n\n Projects: AlgoHike, DrawToday"
 
 - name: Node.js
   logo: /images/sections/skills/node.png
-  summary: "Experience with Node.js in creating backend servers for school and personal projects (refer to projects section: AlgoHike, DrawToday)."
-
-- name: Javascript
-  logo: /images/sections/skills/js.png
-  summary: "Used for multiple school projects and during internships (refer to projects section: DrawToday, ViruSim, Taizuyahira)."
-
-- name: Java
-  logo: /images/sections/skills/java.png
-  summary: "Used in school projects, assignments and personal projects (refer to projects section: GitGud)."
+  summary: "Experience with Node.js in creating backend servers for school and personal projects. \n\n Projects: AlgoHike, DrawToday"
 
 - name: Golang
   logo: /images/sections/skills/golang.png
-  summary: "Used Golang for backend development during my Year 3 summer internship at Tiktok."
+  summary: "Used for backend development during internship. \n\n Internships: Tiktok"
+
+- name: Javascript
+  logo: /images/sections/skills/js.png
+  summary: "Used for multiple school projects and during internship. \n\n Internships: Savour \n\n Projects: AlgoHike, Swappee, etc."
+
+- name: Typescript
+  logo: /images/sections/skills/typescript.png
+  summary: "Used in personal projects. \n\n Projects: Project Sight Words, DrawToday."
+
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Used in school projects, assignments and personal projects \n\n Projects: GitGud."
 
 - name: Python
   logo: /images/sections/skills/py.webp
-  summary: "Used Python during internship at Savour as well as for school assignments."
+  summary: "Used Python during internship for backend development. \n\n Internships: Savour"
 
 - name: MongoDB
   logo: /images/sections/skills/mongodb.webp
-  summary: "Experience using MongoDB in conjunction with Node.js for backend database."
+  summary: "Experience using MongoDB in conjunction with Node.js for backend database. \n\n Projects: AlgoHike"
 
 - name: Git
   logo: /images/sections/skills/git.png
@@ -65,4 +77,4 @@ skills:
 
 - name: Firebase
   logo: /images/sections/skills/firebase.png
-  summary: "Experience in using Firebase for Cloud Database and for authentication & authorization (refer to projects section: AlgoHike, Virusim)."
+  summary: "Experience in using Firebase for Cloud Database, authentication & authorization as well as Cloud Functions. \n\n Projects: ReCloset, AlgoHike, ViruSim"

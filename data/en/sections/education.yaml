@@ -25,66 +25,76 @@ degrees:
     showGrades: true
     collapseAfter: 4
     courses:
-    - name: ==== Software Engineering Modules ==== 
-    - name: Software Engineering on Modern Application Platforms (CS3217)
+    - name: "==== Software Engineering Modules ===="
+    - name: "CS3217: Software Engineering on Modern Application Platforms"
       achieved: 5 (A+)
       outOf: 5
-    - name: Software Engineering Principles and Patterns (CS3219)
+    - name: "CS3219: Software Engineering Principles and Patterns"
       achieved: 5 (A+)
       outOf: 5
-    - name: Software Engineering (CS2103T)
+    - name: "CS2103T: Software Engineering"
       achieved: 5 (A)
       outOf: 5
-    - name: ======== Database Modules ========
-    - name: Big Data Systems for Data Science (CS4225)
+    - name: "======== Database Modules ========"
+    - name: "CS4225: Big Data Systems for Data Science"
       achieved: 5 (A+)
       outOf: 5
-    - name: Database Systems Implementation (CS3223)
+    - name: "CS3223: Database Systems Implementation"
       achieved: 5 (A)
       outOf: 5
-    - name: Database Systems (CS2102)
+    - name: "CS2102: Database Systems"
       achieved: 4.5 (A-)
       outOf: 5
-    - name: ======== Algorithm Modules ========
-    - name: Design and Analysis of Algorithms (CS3230)
+    - name: "======== Algorithm Modules ========"
+    - name: "CS3230: Design and Analysis of Algorithms"
       achieved: 5 (A)
       outOf: 5
-    - name: Data Structures and Algorithm (CS2040S)
+    - name: "CS2040S: Data Structures and Algorithm"
       achieved: 5 (A)
       outOf: 5
-    - name: ========= Security Modules =========
-    - name: Computer Security (CS3235)
+    - name: "========= Security Modules ========="
+    - name: "CS3235: Computer Security"
       achieved: 5 (A)
       outOf: 5
-    - name: Introduction to Information Security (CS2107)
+    - name: "CS2107: Introduction to Information Security"
       achieved: 4.5 (A-)
-      outOf: 5 
-    - name: ========= Other CS Modules =========
-    - name: Computer Organisation (CS2100)
+      outOf: 5
+    - name: "========= Other CS Modules ========="
+    - name: "CS2100: Computer Organisation"
       achieved: 5 (A)
       outOf: 5
-    - name: Machine Learning (CS3244)
-      achieved: 4.5 (A-)
-      outOf: 5 
-    - name: Introduction to Operating Systems (CS2106)
-      achieved: 4.5 (A-)
-      outOf: 5    
-    - name: Introduction to Computer Networks (CS2105)
+    - name: "CS3244: Machine Learning"
       achieved: 4.5 (A-)
       outOf: 5
-    - name: Linear Algebra (MA1101R)
+    - name: "CS2106: Introduction to Operating Systems"
+      achieved: 4.5 (A-)
+      outOf: 5
+    - name: "CS2105: Introduction to Computer Networks"
+      achieved: 4.5 (A-)
+      outOf: 5
+    - name: "MA1101R: Linear Algebra"
       achieved: 5 (A+)
       outOf: 5
 
   extracurricularActivities: #(optional)
-  - Frontend Lead for Project Sight Words under NUS Google Student Developer Clubs.
+  - Frontend Lead for Project Sight Words under NUS Google Student Developer Clubs
   - NUS Silat Varsity Athlete
-  
+
+- name: Winter Exchange
+  icon: fa-snowflake
+  timeframe: 2022
+  institution:
+    name: Yonsei University
+    url: "https://www.yonsei.ac.kr/en_sc/index.jsp"
+  takenCourses:
+    courses:
+    - name: Korean Language 1
+
 - name: 
   icon: fa-school
   timeframe: 2016 - 2017
   institution:
     name: National Junior College (NJC)
-    url: "#"
+    url: "https://www.nationaljc.moe.edu.sg/"
   extracurricularActivities: #(optional)
   - Canoeing Vice Captain

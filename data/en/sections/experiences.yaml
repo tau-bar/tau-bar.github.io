@@ -26,7 +26,7 @@ experiences:
     url: "https://nus.edu.sg/"
     location: Singapore
     # company overview
-    overview: Served as a Teaching Assistantg for Software Engineering for 2 semesters.
+    overview: Served as a Teaching Assistant for Software Engineering for 2 semesters.
   positions:
   - designation: Teaching Assistant for Software Engineering (CS2103)
     start: Aug 2022
@@ -52,7 +52,7 @@ experiences:
     - Upgraded marketplace search by implementing weighted results and sort / filter so clients can find products easily
     - Implemented searching with search suggestions to allow merchants to more easily find items in inventory
     - Deployed new staging environment with AWS EC2 Linux instance to support rapid prototyping of new features
-    - Identified bottleneck in static content delivery and incorporated AWS CloudFront, reducing page loading times by 40%
+    - Identified bottleneck in static content delivery and utilized AWS CloudFront to reduce page loading times by 40%
     - Collaborated with 2 Product Managers to analyse new feature ideas by identifying potential problems
 
 
