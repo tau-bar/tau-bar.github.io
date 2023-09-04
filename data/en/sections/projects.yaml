@@ -21,19 +21,40 @@ buttons:
 
 # your projects
 projects:
+- name: Tumbling Towers
+  role: Developer (Team Project)
+  timeline: "Mar 2023 - April 2023"
+  repo: "https://github.com/tumbling-towers/TumblingTowersGame"
+  summary: "Game where users can build towers using tetris blocks. Supports 4 different game modes and local multiplayer. Built using SwiftUI and Swift as part of the team project for CS3217. \n\n Grade: A+"
+  tags: ["academic", "swift", "xcode", "swiftui"]
+
+- name: Gromflomite Invasion
+  role: Developer (Individual Project)
+  timeline: "Jan 2023 - Feb 2023"
+  repo: "https://github.com/cs3217-2223/problem-set-4-tau-bar"
+  summary: "Rick and Morty themed Peggle Clone in Swift, with core gameplay and a level editor, built using Storyboard for the iPad as part of the individual problem sets for CS3217. \n\n Grade: A+"
+  tags: ["academic", "swift", "xcode", "storyboard"]
+
+- name: ReCloset
+  role: Developer (Team Project)
+  timeline: "Mar 2023 - Current"
+  repo: "https://github.com/reCloset/reCloset"
+  summary: "Platform for users to obtain and give away pre-loved clothes targeting UN's Sustainable Development Goal 12 - Reponsible Consumption and Production. Built using Flutter and Firebase as part of Google Developer Solutions Challenge 2023. \n\n Our team is currently in the top 100 worldwide."
+  tags: ["cca", "flutter", "dart", "firebase"]
+
 - name: Project Sight Words
   role: Frontend Lead
   timeline: "Aug 2022 - Present"
   #url: ""
-  summary: Frontend Lead for Project Sight Words, consisting of passionate developers in NUS Google Developer Student Club, aiming to make learning fun for dyslexic students with an online learning platform customized to their learning needs. Leading a team of 5, to develop a mobile-responsive Progressive Web Application for both students and teachers at the Dyslexic Association of Singapore. 
+  summary: "Mobile-responsive Progressive Web Application for both students and teachers at the Dyslexic Association of Singapore. Project aims to make learning fun for dyslexic students with an online learning platform customized to their learning needs. \n\n Currently serving as Frontend Lead for team consisting of passionate developers in NUS GDSC."
   tags: ["cca", "react", "typescript", "recoil", "tailwindcss", "pwa"]
 
 - name: AlgoHike
-  role: Developer
+  role: Developer (Team Project)
   timeline: "Aug 2022 - Nov 2022"
   repo: https://github.com/CS3219-AY2223S1/cs3219-project-ay2223s1-g38 # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Led team of 4 to develop a collaborative coding interview platform where users can match with another user to practice coding interview questions in preparation for technical interviews. Created as part of Software Engineering Principles and Patterns (CS3219) team project. (Grade - A)
+  summary: "Collaborative coding interview platform where users can match with another user to practice coding interview questions in preparation for technical interviews. Created as part of Software Engineering Principles and Patterns (CS3219) team project. \n\n Grade: A+"
   tags: ["academic", "react", "redux", "nodejs", "express", "mongodb", "sqlite3", "socket.io"]
 
 - name: TEAMMATES
@@ -41,11 +62,11 @@ projects:
   timeline: "Aug 2022 - Nov 2022"
   repo: https://github.com/tau-bar/teammates # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Contributed as an Open Source Developer by adding new features and identifying and fixing bugs. TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of students. Done under Independent Work Module at NUS-OSS (CP3108B). 
+  summary: "TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of students. \n\n Done under Independent Work Module at NUS-OSS (CP3108B)." 
   tags: ["academic", "angular", "typescript"]
 
 - name: DrawToday
-  role: Developer
+  role: Developer (Independent Project)
   timeline: "Aug 2022 - Present"
   repo: https://github.com/tau-bar/drawtoday-frontend # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -53,14 +74,14 @@ projects:
   tags: ["hobby", "react", "redux", "express", "nodejs", "typescript", "javascript"]
 
 - name: GitGud
-  role: Developer
+  role: Developer (Team Project)
   timeline: "Aug 2021 - Nov 2021"
   repo: https://github.com/tau-bar/tp
-  summary: gitGud is a desktop application for storing and managing your friends' gaming information and schedules. Done as part of Software Engineering (CS2103T) team project. (Grade - A)
+  summary: "gitGud is a desktop application for storing and managing your friends' gaming information and schedules. Done as part of Software Engineering (CS2103T) team project \n\n Grade: A"
   tags: ["academic", "java", "javafx"]
 
 - name: Swappee
-  role: Developer
+  role: Developer (Team Project)
   timeline: "Aug 2021 - Present"
   repo: https://github.com/MarcusTXK/Swappee
   #url: ""
@@ -68,15 +89,15 @@ projects:
   tags: ["hobby", "nextjs", "spring", "redux", "typescript", "java"]
 
 - name: ViruSim
-  role: Developer
+  role: Developer (Team Project)
   timeline: "May 2021 - Jul 2021"
   repo: https://github.com/tau-bar/virusim
   #url: ""
-  summary: Web app where users can learn how viruses spread, and create, view and save custom-made virus models. Project for Independent Software Development Project (Orbital) 2021. Awarded Apollo 11 (Advanced) level of achievement. 
+  summary: "Web app where users can learn how viruses spread, and create, view and save custom-made virus models. Project for Independent Software Development Project (Orbital) 2021. \n\n Awarded Apollo 11 (Advanced) level of achievement." 
   tags: ["academic", "react", "firebase", "javascript"]
 
 - name: Taizuyahira Escape Room
-  role: Developer
+  role: Developer (Independent Project)
   timeline: "May 2021 - Sep 2021"
   repo: https://github.com/tau-bar/taizuyahira-escape-room
   summary: A themed escape room website I created using ReactJS and SCSS for PBMUKS Freshman Orientation Camp 2021. 
