@@ -6,65 +6,86 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
-- company:
-    name: TikTok
-    url: "https://www.tiktok.com/"
-    location: Singapore
-    # company overview
-    overview: Currently working under Product RD and Infrastructure Global E-Commerce team on the Data Insights platform.
-  positions:
-  - designation: Backend Engineer Intern
-    start: May 2023
-    end: Present
+  - company:
+      name: TikTok
+      url: "https://www.tiktok.com/"
+      location: Singapore
+      # company overview
+      overview: Global E-Commerce - Governance Service - Risk Control Platform
+    positions:
+      - designation: Software Engineer
+        start: Jun 2024
+        end: Present
 
-- company:
-    name: National University of Singapore
-    url: "https://nus.edu.sg/"
-    location: Singapore
-    # company overview
-    overview: Served as a Teaching Assistant for Software Engineering for 2 semesters.
-  positions:
-  - designation: Teaching Assistant for Software Engineering (CS2103)
-    start: Aug 2022
-    end: May 2023
-    responsibilities:
-    - Conducted weekly tutorials for 2 semesters covering Software Engineering principles (Object-Oriented system analysis, Object-Oriented system modelling, Design and implementation of software modules).
+  - company:
+      name: Equitech Collective
+      url: "https://www.equity.tech/"
+      location: Singapore
+      # company overview
+      overview: Developed identity management system for migrants in Mae Sot, Thailand as well as Electronic Health Records system for a clinic in Mae Sot, Thailand.
+    positions:
+      - designation: Software Engineer Intern
+        start: Jan 2024
+        end: May 2024
 
-- company:
-    name: Savour!
-    url: "https://www.savourapp.co/"
-    location: Singapore
-    # company overview
-    overview: One-stop B2B Procurement & Sponsorship Platform in Singapore.
-  positions:
-  - designation: Software Engineer Intern
-    start: May 2022
-    end: Aug 2022
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Developed new frontend and backend features for B2B E-procurement marketplace with React and Django
-    - Upgraded marketplace search by implementing weighted results and sort / filter so clients can find products easily
-    - Implemented searching with search suggestions to allow merchants to more easily find items in inventory
-    - Deployed new staging environment with AWS EC2 Linux instance to support rapid prototyping of new features
-    - Identified bottleneck in static content delivery and utilized AWS CloudFront to reduce page loading times by 40%
-    - Collaborated with 2 Product Managers to analyse new feature ideas by identifying potential problems
+  - company:
+      name: TikTok
+      url: "https://www.tiktok.com/"
+      location: Singapore
+      # company overview
+      overview: Global E-Commerce - Data Insights Platform (Creator, Live Workbench).
+    positions:
+      - designation: Backend Engineer Intern
+        start: May 2023
+        end: Dec 2023
 
+  - company:
+      name: National University of Singapore
+      url: "https://nus.edu.sg/"
+      location: Singapore
+      # company overview
+      overview: Served as a Teaching Assistant for Software Engineering for 2 semesters.
+    positions:
+      - designation: Teaching Assistant for Software Engineering (CS2103)
+        start: Aug 2022
+        end: May 2023
+        responsibilities:
+          - Conducted weekly tutorials for 2 semesters covering Software Engineering principles (Object-Oriented system analysis, Object-Oriented system modelling, Design and implementation of software modules).
 
-- company:
-    name: Crater Merch
-    url: "https://cratermerch.com/"
-    location: Singapore
-  positions:
-  - designation: Frontend Engineer Intern
-    start: Dec 2021
-    end: Feb 2022
-    responsibilities:
-    - Created 2 new mobile-responsive pages using NextJS, Javascript and CSS by creating custom reusable components, allowing artists to display artworks for sale
-    - Implemented event tracking to allow artists to track user e-commerce activities with Twilio Segment and Google Analytics to help merchants identify popular products with consumers
-    - Collaborated with 2 UI designers to design profile page by identifying limitations on user interactions and experience
+  - company:
+      name: Savour!
+      url: "https://www.savourapp.co/"
+      location: Singapore
+      # company overview
+      overview: One-stop B2B Procurement & Sponsorship Platform in Singapore.
+    positions:
+      - designation: Software Engineer Intern
+        start: May 2022
+        end: Aug 2022
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Developed new frontend and backend features for B2B E-procurement marketplace with React and Django
+          - Upgraded marketplace search by implementing weighted results and sort / filter so clients can find products easily
+          - Implemented searching with search suggestions to allow merchants to more easily find items in inventory
+          - Deployed new staging environment with AWS EC2 Linux instance to support rapid prototyping of new features
+          - Identified bottleneck in static content delivery and utilized AWS CloudFront to reduce page loading times by 40%
+          - Collaborated with 2 Product Managers to analyse new feature ideas by identifying potential problems
+
+  - company:
+      name: Crater Merch
+      url: "https://cratermerch.com/"
+      location: Singapore
+    positions:
+      - designation: Frontend Engineer Intern
+        start: Dec 2021
+        end: Feb 2022
+        responsibilities:
+          - Created 2 new mobile-responsive pages using NextJS, Javascript and CSS by creating custom reusable components, allowing artists to display artworks for sale
+          - Implemented event tracking to allow artists to track user e-commerce activities with Twilio Segment and Google Analytics to help merchants identify popular products with consumers
+          - Collaborated with 2 UI designers to design profile page by identifying limitations on user interactions and experience

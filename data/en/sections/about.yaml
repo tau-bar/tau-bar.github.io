@@ -10,37 +10,30 @@ section:
 # your designation
 designation: Software Engineer Intern
 # your company information
-# company:
-#   name: National University of Singapore (NUS)
-#   url: "https://nus.edu.sg"
 company:
   name: Tiktok
   url: "https://www.tiktok.com/"
 
-# your resume. this file path should be relative to you "static" directory
-# Dreprecated. Use resourceLinks instead.
-# resume: "files/resume.pdf"
-
 # a summary about you
-summary: 'Passionate about Software Engineering and its ability to do good for the community. Eager learner and hard worker, looking to continuously improve my skills through internships, school and personal projects.'
+summary: "Passionate about Software Engineering and its ability to do good for the community. Eager learner and hard worker, looking to continuously improve my skills."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "taufiq.b.ar@gmail.com"
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "taufiq.b.ar@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/tau-bar"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/tau-bar"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/taubar/"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/taubar/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "https://docs.google.com/document/d/1gDmxH6-f8ZYGez-fLSvU3ggoK-S9iw28/edit?usp=sharing&ouid=103346849910518575500&rtpof=true&sd=true"
+  - title: "My Resume"
+    url: "https://drive.google.com/file/d/1pwWu1ERZfMYVMuWYdEfnBhba3r7ri_6P/view?usp=sharing"
